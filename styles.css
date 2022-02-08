@@ -1,0 +1,64 @@
+
+h1 {
+    font-size: 50px;
+    color:rgb(51, 153, 255);
+    font-family:'Lato', 'Arial', sans-serif;
+    font-weight: 700;
+}
+
+h2 {
+    color: rgb(0, 184, 230);
+}
+
+body {
+    background-color: rgb(204, 204, 204, .3);
+    font-family: 'Lato', 'Arial', sans-serif;
+}
+
+table {
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 90%;
+}
+
+th {
+    background-color: rgb(255, 153, 153, .8);
+    border: 1px solid black;
+    font-weight: 700;
+}
+
+td {
+    border: 1px solid gray;
+    padding: 4px;
+}
+
+tr, td {
+    text-align: center;
+}
+
+footer {
+    font-style: italic;
+}
+
+.title {
+    background-color: (5, 204, 102, .3);
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.tag:hover {
+    text-align: center;
+    color: red;
+    background-color: rgb(144, 189, 235);
+}
+
+.highlight {
+    background-color: rgb(174, 211, 248, .3);
+}
+
+#description {
+    text-align: left;
+}
